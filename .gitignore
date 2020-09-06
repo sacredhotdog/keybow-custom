@@ -1,6 +1,9 @@
+/*
 !keybow.lua
-!lco-default.lua
 !readme.md
+!/layouts
+/layouts/*
+!/layouts/lco-*
 
-!snippets/
+!/snippets/
 
